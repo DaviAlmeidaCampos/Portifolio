@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(#2de2e6,#035ee8,#f6019d,#d40078,#9700cc);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+    button{
+        padding:20px;
+        border-radius: 25px;
+        background-color:chartreuse;
+    }
+
+.esqueleto2{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 480px;
+}
+.esqueleto{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 920px;
+}
+
+.Perfil{
+
+}
+#img{
+    border-radius: 50%;
+}
